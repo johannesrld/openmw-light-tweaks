@@ -41,3 +41,4 @@ luac.out
 *.hex
 
 scripts/
+openmw_teal_declarations/
