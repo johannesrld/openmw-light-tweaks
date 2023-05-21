@@ -7,5 +7,5 @@
 return {
    build_dir = "scripts/tau",
    source_dir = "src",
-   include_dir = {"C:/Users/Johannes/Documents/artifacts/teal_declarations/"},
+   include_dir = {"openmw_teal_declarations"},
 }
